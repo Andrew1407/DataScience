@@ -6,6 +6,18 @@ __pycache__/
 # C extensions
 *.so
 
+# lab data
+4-lab/tables
+5-lab/*.csv
+6-lab/*.csv
+6-lab/atmospheric_pressure_predictor/
+7-lab/*.xls
+8-lab/output
+8-lab/input
+8-lab/scoring_predictor_model
+9-lab/model
+9-lab/input
+
 # Distribution / packaging
 .Python
 build/
